@@ -2,7 +2,7 @@
 ![gurt](https://pbs.twimg.com/media/G78t4SOagAAv6hi?format=jpg&name=large)
 
 <p align="center">
-  <span style="color:red;">artist: @metroqolis on twt</span>
+  artist: @metroqolis on twt
 </p>
 
 ![yo](https://64.media.tumblr.com/c312211c406d791f0415ac57ffb17740/d083df8da3513e0a-eb/s2048x3072/21746c03d67d8389c00911a7da55ff12367f5143.pnj)
