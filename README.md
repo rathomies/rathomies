@@ -1,5 +1,5 @@
 ![yo](https://64.media.tumblr.com/64239291985a3aee495a6117b9168b93/d083df8da3513e0a-0c/s2048x3072/16ea45e3a1fcec929af1d2e75a2f637e9824f5b2.gifv)
-![gurt](https://pbs.twimg.com/media/G78t4SOagAAv6hi?format=jpg&name=large)
+![gurt](https://media.discordapp.net/attachments/533794379681234975/1450152078398849237/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4737387434534f61674141763668693f666f726d61743d6a7067266e616d653d6c61726765.jpg?ex=69417ede&is=69402d5e&hm=69108f4a68bbb2503ccd6e4696d24fe6e9f6a29290bc35bb8f24e51aa940a113&=&format=webp&width=425&height=340)
 
 <p align="center">
   artist: @metroqolis on twt
