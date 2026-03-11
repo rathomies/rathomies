@@ -6,5 +6,9 @@
 
 <p align="center">
   <img src="https://files.catbox.moe/1gbv3c.png" width="600">
+    </p>
+
+  <h1 align="center">  .‧₊. .‧₊. .₊‧. </h1>
+  <p align="center">
   <img src="https://64.media.tumblr.com/2b34949c1ac29d91779d3e8a0cfa35f5/43b94d9b1541dd9d-a3/s1280x1920/42804eff14fbbd10481ea1ac264de6e9eb1f15da.pnj" width="800"/>
   </p>
