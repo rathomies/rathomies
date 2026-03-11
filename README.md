@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/9c7b13f6714c950b32dc0e8b61a29fd4/43b94d9b1541dd9d-e6/s1280x1920/bbcedc711aa4deb9f45dda6938e12ba0676edcf0.pnj" width="800"/>
   </p>
-<p align="center">  ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺ </p>
 <p align="center">
   <img src="https://files.catbox.moe/1gbv3c.png" width="600">
     </p>
