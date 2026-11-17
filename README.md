@@ -1,6 +1,6 @@
 <div align="center">
   <span>
-    text here
+    lohen art made by me❤︎⁠
   </span>
   <img src="https://files.catbox.moe/7zfvka.png" width="300">
 </div>
