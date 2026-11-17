@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pixelsafari.neocities.org/dividers/bluestarribbon2.gif" width="700"/>
+  <img src="https://pixelsafari.neocities.org/dividers/more/bunny.gif" width="700"/>
   </p>
 <p align="center">
   <img src="https://files.catbox.moe/7zfvka.png" width="400">
