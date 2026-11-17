@@ -8,6 +8,6 @@
 <p align="center">
   <img src="https://pixelsafari.neocities.org/dividers/more/blood.png" width="700">
 </p>
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=rathomies&color=red&style=flat-square&label=github+victims">
 </p>
